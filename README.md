@@ -1,6 +1,6 @@
 # r1
 <br>
-Aythor:alisha kalghatgi
+Author:alisha kalghatgi
 <br>
 members: 3
 <br>
